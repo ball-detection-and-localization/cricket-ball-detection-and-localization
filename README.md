@@ -1,7 +1,7 @@
 # cricket-ball-detection-and-localization
 Cricket ball detection and localization
 
-This is a complete set of codes that allow a begginner to start coding and progress upto being able to detect and predict ball paths and 
+This is a complete set of codes that allow a beginner to start coding and progress upto being able to detect and predict ball paths and 
 view an image from a diffrent angle.
 
 All folders have the required images and videos in order to work ,the order of checking out the folders is as follows:
